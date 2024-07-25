@@ -1,6 +1,18 @@
+# screenshots
+Screenshots of my projects
+![First Page](assets/screenshot/screenshot1.png),
+![Second Page](assets/screenshot/screenshot2.png),
+![Timer Started](assets/screenshot/screenshot3.png),
+![Timer Icon](assets/screenshot/timer_icon.jpeg),
+
+
+
 # timer
 
 A new Flutter project.
+Timer Flutter App that Application Contains from Timer and Colck with digital date time 
+a Simple Applictaion consists of tow pages 
+Developer By : Mahmoud Atro 
 
 ## Getting Started
 
